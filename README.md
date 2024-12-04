@@ -5,6 +5,18 @@
 - 用來預測答案的 Test Data 是 upload.csv
 - **請確保以上的資料都在 test.ipynb 的目錄底下**
 
+##### 其餘 files 說明：
+
+- answer.csv 為預測結果
+- test.ipynb 為執行的程式碼
+
+##### 環境說明：
+
+- 作業系統：Windows 11 家用版 23H2
+- Python : 3.12.7
+- Jupter 套件：IPython(8.27.0)、ipykernel(6.29.5)、ipywidgets(8.1.2)、jupyter_client(8.6.0)、jupyter_core(5.7.2)、jupyter_server(2.14.1)、jupyterlab(4.2.5)、nbclient(0.8.0)、nbconvert(7.16.4)、nbformat(5.10.4)、notebook(7.2.2)、qtconsole(5.6.0)、traitlets(5.14.3)
+- - 相關 import 套件：numpy(1.26.4)、matplotlib(3.9.2)、seaborn(0.13.2)、pandas(2.2.3)、scikit-learn(1.5.2)、xgboost(2.1.2)、scipy(1.14.1)
+
 ##### Block 執行方式：
 
 - Block 第一行會有一行註解
