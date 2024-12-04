@@ -1,3 +1,10 @@
+##### Train Data、中央氣象局資料、Test Data 說明：
+
+- Train Data 被分別放在 ./Additional_Traindata、./Traindata folder 底下
+- 中央氣象局資料放在 ./Gov_data folder 底下
+- 用來預測答案的 Test Data 是 upload.csv
+- **請確保以上的資料都在 test.ipynb 的目錄底下**
+
 ##### Block 執行方式：
 
 - Block 第一行會有一行註解
